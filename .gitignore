@@ -1,0 +1,71 @@
+## User-specific files
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer Logs
+*.log
+
+# Windows Installer Setup
+*.vsscc
+*.vspscc
+*.vssscc
+
+# Windows files
+Desktop.ini
+$RECYCLE.BIN/
+
+## .NET Core / .NET 8 specific
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]ist/
+[Dd]istros/
+[Dd]evelopment/
+[Dd]ebug/Portable/
+[Dd]ebug/PortableNoPdb/
+[Dd]ebug/PortableNoPdb/Portable/
+[Dd]ebug/PortableNoPdb/dotnet/
+[Dd]ebug/PortableNoPdb/Portable/
+
+# .NET Core / .NET 8 configuration files
+.vscode/
+.idea/
+.vs/
+.vs2019/
+.vs2017/
+.vs2015/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# User-specific files for Rider and VSCode
+.idea/
+
+# User-specific files for Visual Studio for Mac
+.vscode/
+
+## Windows Installer and Visual Studio cache
+.vs2019/
+.vs2017/
+
+# User-specific files for Visual Studio and VSCode
+.vsconfig/
+
+## Project specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Windows Installer cache
+*.cab
+*.msi
+*.msm
+*.msp
